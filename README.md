@@ -8,4 +8,5 @@
 {https://github.com/2303A51700/23CSBTB27-28/blob/main/assignment2}
 {https://github.com/2303A51700/23CSBTB27-28/blob/main/Lab_5.ipynb}
 {https://github.com/2303A51700/23CSBTB27-28/blob/main/lab_6.ipynb}
+{https://github.com/2303A51700/23CSBTB27-28/blob/main/EXAM.ipynb}
 
